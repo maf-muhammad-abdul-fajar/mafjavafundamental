@@ -1,21 +1,18 @@
-package javafundamental.testharian.pratikum_1;
+package com.juaracoding.mafjavafundamental.testharian.pratikum_1;
 
 /*
 Created By IntelliJ IDEA 2022.2.3 (Community Edition)
 Build #IU-222.4345.14, built on October 5, 2022
 @Author Asus a.k.a. muhammad abdul fajar
 Java Developer
-Created on 1/16/2023 8:40 AM
-@Last Modified 1/16/2023 8:40 AM
+Created on 1/18/2023 7:02 PM
+@Last Modified 1/18/2023 7:02 PM
 Version 1.0
 */
 
 import java.util.Scanner;
 
-
-
-public class Praktikum1 {
-
+public class Pratikum1 {
     public static void main(String[] args)
     {
         // Jquery 1995@v1.0
