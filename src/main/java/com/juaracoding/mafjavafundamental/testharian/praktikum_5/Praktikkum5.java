@@ -11,6 +11,9 @@ Version 1.0
 */
 import java.util.Scanner;
 public class Praktikkum5 {
+    /*
+         Soal Nomor 1 Praktikum 5 Java Fundamental
+         */
     public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Masukkan tinggi segitiga: ");
